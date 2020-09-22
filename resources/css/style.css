@@ -1,3 +1,29 @@
 body {
-    margin: 0;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: Verdana, sans-serif;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+}
+
+.cta {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+h2 {
+    font-weight: normal; 
+}
+
+.footer {
+    text-align: right;
+    color: gray;
+}
+
+.col {
+    color: gray;
 }
